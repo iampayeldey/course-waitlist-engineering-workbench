@@ -1,0 +1,6 @@
+{
+  "name": "Course Waitlist Engine & Engineering Workbench",
+  "description": "Production-grade, transactional course enrollment and FIFO waitlist promotion service slice with automated concurrency tests and engineering deliverables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

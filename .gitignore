@@ -1,0 +1,45 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+DESIGN_SPEC.md
+PROJECT_OVERVIEW.md
+Course-Registration-Rubric-Score.md
+AI_PROMPT_RECORD.md
+
+
+# Angular
+node_modules/
+dist/
+.angular/
+coverage/
+
+# .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+.env.example
+appsettings.*.json
+!appsettings.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+src
+public
+
+vite.config.ts
